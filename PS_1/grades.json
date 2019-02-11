@@ -1,0 +1,319 @@
+{ 
+    "_id" : ObjectId("d51036e3049840aeab2bb394"), 
+    "slugfly" : "civil-engineering", 
+    "countryCode" : "IN", 
+    "name" : "Civil Engineering", 
+    "updatedAt" : "2017-08-31T10:39:23", 
+    "createdAt" : "2017-08-31T10:39:23", 
+    "active" : true, 
+    "ShortName" : "CVL", 
+    "__v" : NumberInt(0), 
+    "subjects" : [
+        ObjectId("56bd5fc60799471c90a7f5ea"), 
+        ObjectId("74296ce7aa304946b5629635"), 
+        ObjectId("a1baf5d790bb44379351f501"), 
+        ObjectId("9c6bdbbdab294f3588ed7bb4"), 
+        ObjectId("3189e97498e640cd8417bf14"), 
+        ObjectId("7cf7bdb1c1464e82b21de6c9"), 
+        ObjectId("1dffcbf055484c1aa1bc31db"), 
+        ObjectId("bfee82a9885e4965841fa7ee"), 
+        ObjectId("4b271cfe519b430b99252f45"), 
+        ObjectId("e742d83384fb4859bcaa202b"), 
+        ObjectId("4772eaca165c4ddf8ff8d7cc"), 
+        ObjectId("53a87d1c7643466887dc0c16"), 
+        ObjectId("22aa545978db4f9c81b53947"), 
+        ObjectId("4d57703912f64e90b8d981bf"), 
+        ObjectId("9b54751d03b14ababc2b757f"), 
+        ObjectId("5ab098cd0f7749000ba1c331"), 
+        ObjectId("5ab2629e792f9e000be365d4"), 
+        ObjectId("5ac5e492bb5152000d09e0b2"), 
+        ObjectId("5ac5e5d6bb5152000d09e0bb"), 
+        ObjectId("5ac5e672bb5152000d09e0c3")
+    ], 
+    "view" : "banking.html", 
+    "moveType" : NumberInt(2), 
+    "adaptive" : false, 
+    "isDefault" : false
+}
+{ 
+    "_id" : ObjectId("08eddbadc8f640739faf75c9"), 
+    "slugfly" : "computer-science--engineering", 
+    "countryCode" : "IN", 
+    "name" : "Computer Science & Engineering", 
+    "updatedAt" : "2017-10-28T03:01:43", 
+    "createdAt" : "2017-10-28T03:01:43", 
+    "active" : true, 
+    "ShortName" : "CSE", 
+    "__v" : NumberInt(0), 
+    "subjects" : [
+        ObjectId("61f5644288f644cab26f2309"), 
+        ObjectId("63dae9572c4944408bc4735b"), 
+        ObjectId("edd0a43a36b743db80f3d702"), 
+        ObjectId("730a789486ae4699aa960d10"), 
+        ObjectId("29519a1ee570455ab83de9d5"), 
+        ObjectId("9e98d448d2a449be9525aed3"), 
+        ObjectId("3275379849864580a099a969"), 
+        ObjectId("0552de8aa34a4ddabf1e41d2"), 
+        ObjectId("c211371629cc4e7cac26ebde"), 
+        ObjectId("b629b43fe0ef4183be940337"), 
+        ObjectId("5a3521f131b33a000d1f6e7f"), 
+        ObjectId("5a689809d940bd000c879f48"), 
+        ObjectId("5a689927d940bd000c879f54"), 
+        ObjectId("5a8bce046f08c6000dca2237"), 
+        ObjectId("5ab1e0090f7749000ba1db20"), 
+        ObjectId("5ab22f350f7749000ba21452"), 
+        ObjectId("5afe790c245c87000d936e0b"), 
+        ObjectId("9056dbc53aa449b5904b4c71")
+    ], 
+    "moveType" : NumberInt(2), 
+    "adaptive" : false, 
+    "isDefault" : false
+}
+{ 
+    "_id" : ObjectId("7208f2fa733b4062a7a132b7"), 
+    "slugfly" : "electrical-engineering", 
+    "countryCode" : "IN", 
+    "name" : "Electrical Engineering", 
+    "updatedAt" : "2017-10-13T12:08:01", 
+    "createdAt" : "2017-10-13T12:08:01", 
+    "active" : true, 
+    "ShortName" : "EE", 
+    "__v" : NumberInt(0), 
+    "subjects" : [
+        ObjectId("47b4f450946647839d63fb3a"), 
+        ObjectId("f3d89ecae0f04065a102b76c"), 
+        ObjectId("3a97a664daa64bbf9a5ec42a"), 
+        ObjectId("7bfb7954c8df49a0a98fb6e0"), 
+        ObjectId("a66b6625653b484eba1d2bda"), 
+        ObjectId("0ae9644a7c63477584350ccd"), 
+        ObjectId("49fbaef79185474eb1137e2e"), 
+        ObjectId("66797230dc134cb4871cbe6c"), 
+        ObjectId("4733f6ee68e14caea780ea97"), 
+        ObjectId("0fcfc4ed9e244afc977359e1"), 
+        ObjectId("bc52a1f05d1a40428fc7b565"), 
+        ObjectId("ae9cd1c73ab74343860d3c33"), 
+        ObjectId("1a1ec4c41bca4c84b80e055d"), 
+        ObjectId("2e3515893d2948a0a11964b2"), 
+        ObjectId("5aaf523dfd020d000cdee1f7"), 
+        ObjectId("5ab0aa630f7749000ba1c635"), 
+        ObjectId("5ab0ab2f0f7749000ba1c63e"), 
+        ObjectId("5ab0abf10f7749000ba1c64a"), 
+        ObjectId("5ab0aca60f7749000ba1c684"), 
+        ObjectId("5ab0ad4c0f7749000ba1c68d"), 
+        ObjectId("5ab0aea50f7749000ba1c6c5"), 
+        ObjectId("5ab0e8280f7749000ba1ce22"), 
+        ObjectId("5ab241fb0f7749000ba21738"), 
+        ObjectId("5ab25ec5792f9e000be36532"), 
+        ObjectId("5ab886bb1b9b25000cc23d5c"), 
+        ObjectId("5b572bcf5f5a63000d5d7ac8"), 
+        ObjectId("5b572bd95f5a63000d5d7ac9"), 
+        ObjectId("5b572c315f5a63000d5d7acd"), 
+        ObjectId("5bade1bd197a9875ac12b85c"), 
+        ObjectId("5bade23d197a98401012b94f")
+    ], 
+    "moveType" : NumberInt(2), 
+    "adaptive" : false, 
+    "isDefault" : false
+}
+{ 
+    "_id" : ObjectId("6cd9a31607654fe0b5db94b9"), 
+    "slugfly" : "electronics--communication-engineering", 
+    "countryCode" : "IN", 
+    "name" : "Electronics & Communication Engineering", 
+    "updatedAt" : "2017-10-09T06:09:57", 
+    "createdAt" : "2017-10-09T06:09:57", 
+    "active" : true, 
+    "ShortName" : "ECE", 
+    "__v" : NumberInt(0), 
+    "subjects" : [
+        ObjectId("0e8b97135a8e451a917644e8"), 
+        ObjectId("d9208d94105e43c3ad7c6db5"), 
+        ObjectId("eaf671d8db624229914d945d"), 
+        ObjectId("d1aefc0d54df422b9858cf33"), 
+        ObjectId("c2fbfb09d580440fa1f3fb65"), 
+        ObjectId("5c0c505446e44719ba1d2a67"), 
+        ObjectId("9f0599069a9c44079e828494"), 
+        ObjectId("2f9394ef2ebc447787e6be72"), 
+        ObjectId("d6fa4405632d4138a923d4aa"), 
+        ObjectId("e0e0a7cc4bcf44afb1fd234d"), 
+        ObjectId("9d87fc42a87447cd9bdd63df"), 
+        ObjectId("f5767a01dc9941b78a8e65ce"), 
+        ObjectId("6f0e36686e1f4f03b0e274e3"), 
+        ObjectId("fb028bcacf5242e18e040429"), 
+        ObjectId("5a69c91be105ff000d91e822"), 
+        ObjectId("5acca7298d0538000b63b9cc"), 
+        ObjectId("5b98dabe6eafacd5b875c5a7"), 
+        ObjectId("5b98dbf26eafaccfba75c5b4"), 
+        ObjectId("5b98dd276eafac163675c5c1"), 
+        ObjectId("5b98e81e6eafac0e8475c747"), 
+        ObjectId("5b98f1486eaface99a75c7ff"), 
+        ObjectId("5ba496635bc57846c0c82944"), 
+        ObjectId("5b98dabe6eafacd5b875c5a7"), 
+        ObjectId("e57f122225634a008e2369e3"), 
+        ObjectId("5b95fc54d98ce30d6e06e326"), 
+        ObjectId("5b95fcbcd98ce3136306e332"), 
+        ObjectId("5b95fd0ad98ce3cf1406e335"), 
+        ObjectId("5b95fd37d98ce3db0b06e33f"), 
+        ObjectId("59de1d0835d7fc0011734d54"), 
+        ObjectId("2f9394ef2ebc447787e6be72")
+    ], 
+    "moveType" : NumberInt(2), 
+    "adaptive" : false, 
+    "isDefault" : false
+}
+{ 
+    "_id" : ObjectId("583b478ea0399b0001798fbb"), 
+    "updatedAt" : ISODate("2017-10-09T02:18:43.804+0000"), 
+    "createdAt" : ISODate("2016-11-27T20:52:30.100+0000"), 
+    "name" : "Mechanical Engineering", 
+    "countryCode" : "IN", 
+    "slugfly" : "mechanical-engineering", 
+    "subjects" : [
+        ObjectId("583b47caa0399b0001798fbc"), 
+        ObjectId("583b47dda0399b0001798fbd"), 
+        ObjectId("583b47f9a0399b0001798fbe"), 
+        ObjectId("583b4810a0399b0001798fbf"), 
+        ObjectId("583b482ea0399b0001798fc0"), 
+        ObjectId("583b4843a0399b0001798fc1"), 
+        ObjectId("583b485aa0399b0001798fc2"), 
+        ObjectId("583b4872a0399b0001798fc3"), 
+        ObjectId("59de129735d7fc0011734d20"), 
+        ObjectId("59de130835d7fc0011734d28"), 
+        ObjectId("59de1b2135d7fc0011734d32"), 
+        ObjectId("59de1bfa35d7fc0011734d3f"), 
+        ObjectId("59de1c8835d7fc0011734d4a"), 
+        ObjectId("59de1d0835d7fc0011734d54"), 
+        ObjectId("59de1ded35d7fc0011734d68"), 
+        ObjectId("5aa12293b5cda7000c365de4"), 
+        ObjectId("5ab4b8360f7749000ba268da"), 
+        ObjectId("5ab4b9230f7749000ba268dd"), 
+        ObjectId("5bac83234355625e93e58db5")
+    ], 
+    "__v" : NumberInt(0), 
+    "ShortName" : "MCH", 
+    "active" : true, 
+    "view" : "banking.html", 
+    "moveType" : NumberInt(2), 
+    "adaptive" : false, 
+    "isDefault" : false
+}
+{ 
+    "_id" : ObjectId("b0e56effc8ff4d969c41c40c"), 
+    "slugfly" : "placement-readiness-tests", 
+    "countryCode" : "IN", 
+    "name" : "Placement Readiness Tests", 
+    "updatedAt" : "2017-03-30T11:14:17", 
+    "createdAt" : "2017-03-30T11:14:17", 
+    "active" : true, 
+    "moveType" : NumberInt(2), 
+    "ShortName" : "PRT", 
+    "__v" : NumberInt(0), 
+    "subjects" : [
+        ObjectId("a262c47026a44718acd41306"), 
+        ObjectId("e8cfb0328cda490ca3e53827"), 
+        ObjectId("8b2d89a05f644cdfb6090f39")
+    ], 
+    "levels" : [
+        {
+            "name" : "Level 1", 
+            "value" : 1.0
+        }, 
+        {
+            "name" : "Level 2", 
+            "value" : 2.0
+        }, 
+        {
+            "name" : "Level 3", 
+            "value" : 3.0
+        }, 
+        {
+            "name" : "Level 4", 
+            "value" : 4.0
+        }, 
+        {
+            "name" : "Level 5", 
+            "value" : 5.0
+        }
+    ], 
+    "adaptive" : false, 
+    "empIndex" : true, 
+    "isDefault" : true
+}
+{ 
+    "_id" : ObjectId("5bacca975cb8c3baf1c24301"), 
+    "slugfly" : "psychometric-test", 
+    "countryCode" : "IN", 
+    "name" : "Psychometric Test", 
+    "updatedAt" : ISODate("2018-09-27T12:18:32.640+0000"), 
+    "createdAt" : ISODate("2018-09-27T12:18:32.640+0000"), 
+    "active" : true, 
+    "ShortName" : "Psy", 
+    "subjects" : [
+        ObjectId("5bacca975cb8c3baf1c24302"), 
+        ObjectId("5bacca975cb8c3baf1c24303"), 
+        ObjectId("5bacca975cb8c3baf1c24304"), 
+        ObjectId("5bacca975cb8c3baf1c24305"), 
+        ObjectId("5bacca975cb8c3baf1c24306")
+    ], 
+    "adaptive" : false, 
+    "isDefault" : true
+}
+{ 
+    "_id" : ObjectId("5bc97c1e6dcc694f0247ea57"), 
+    "slugfly" : "programming", 
+    "name" : "Programming", 
+    "countryCode" : "IN", 
+    "ShortName" : "PRG", 
+    "view" : "", 
+    "moveType" : NumberInt(1), 
+    "subjects" : [
+        ObjectId("3835d8c367564425b162d7db"), 
+        ObjectId("5bfdb373ab9c272b3ea50504"), 
+        ObjectId("5bfdb37aab9c27761ba50505")
+    ], 
+    "levels" : [
+        {
+            "name" : "Level 1", 
+            "value" : 1.0
+        }, 
+        {
+            "name" : "Level 2", 
+            "value" : 2.0
+        }, 
+        {
+            "name" : "Level 3", 
+            "value" : 3.0
+        }, 
+        {
+            "name" : "Level 4", 
+            "value" : 4.0
+        }
+    ], 
+    "updatedAt" : ISODate("2018-10-19T06:39:26.505+0000"), 
+    "adaptive" : false, 
+    "active" : true, 
+    "createdAt" : ISODate("2018-10-19T06:39:26.505+0000"), 
+    "__v" : NumberInt(0), 
+    "isDefault" : true
+}
+{ 
+    "_id" : ObjectId("5c49eed43a241183eb0c7774"), 
+    "slugfly" : "biotechnology", 
+    "name" : "Biotechnology", 
+    "countryCode" : "IN", 
+    "ShortName" : "BT", 
+    "isDefault" : false, 
+    "view" : "", 
+    "moveType" : NumberInt(1), 
+    "levels" : [
+
+    ], 
+    "subjects" : [
+        ObjectId("5c49ef5e3a2411121c0c7797")
+    ], 
+    "updatedAt" : ISODate("2019-01-24T16:59:00.812+0000"), 
+    "adaptive" : false, 
+    "active" : true, 
+    "createdAt" : ISODate("2019-01-24T16:59:00.812+0000"), 
+    "__v" : NumberInt(0)
+}
