@@ -1,4 +1,5 @@
 # PEL-DS-Intern
+Any data, collections or files are sole property of Perfectice Eduventures private LTD. You have to take permission from the firm before using the data in any form. The codes/Algorithms/Analysis is done solely by me i.e. Ankush Kalsi hence a source/reference mention of the git would suffice. Thank you.
 Temporary Database with following collections:
 1. attempts: It holds summary data of student's attempt. Each test by a student becomes an attempt. If student takes 5 tests (same or different test), it will create 5 attempts. If student abandones the test, isAbandon flag is set to true. We consider only isAbandon = false documents. 
 
