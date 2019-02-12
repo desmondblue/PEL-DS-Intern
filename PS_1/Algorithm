@@ -1,7 +1,18 @@
-Algorithm:
+Algorithm/Analysis:
+Approach 1-
 In the attempts collection. Count number of attempts made by the student for a particular test(total questions either 20 or 45).
 Then take the mean of the total marks for all the attempts.
 Repeat the process for all the students for the same test that is either for 20 question test or 45 question test.
 Once we get the data.
 We can sort the mean marks of students in descending orders based on number of attempts.
 If the correlation between marks and number of attempts comes out to be high and positive in most of the cases it will imply that the statement stands true.
+Approach 2-
+Question: more number of attempts by a student means he or she is performing better than the student making lesser attempts?
+Solution:
+A paired t-test for two different experimental conditions,
+i.e. we compare the grades of the students from the 1st test to kth test as long as the assumption is satisfied.
+The assumption is : 
+The differences wi=xi−yi where xi and yi are the total marks/scores of the ith student in the 1st test and the kth test, 
+between the paired samples are independent draws from a normal distribution N(µ,σ2), where µ and σ are unknown.
+Approach 3-
+Regression Analysis can very well answer the question of where more practice means better performance.
